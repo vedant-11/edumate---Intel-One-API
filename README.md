@@ -52,8 +52,10 @@ Edumate is a trailblazing app transforms classrooms with its geofencing magic fo
 - The notebook links for all the models: <a href="https://jupyter.oneapi.devcloud.intel.com/user/u206691/doc/tree/sentimental_analysis.ipynb">Sentiment analysis</a> , <a href="https://jupyter.oneapi.devcloud.intel.com/user/u206691/doc/tree/Quiz_generator_LLM.ipynb">Test Generator </a> , <a href="https://jupyter.oneapi.devcloud.intel.com/user/u206691/doc/tree/mindful_tips.ipynb">Mindful tip generator</a> , <a href="https://jupyter.oneapi.devcloud.intel.com/user/u206691/doc/tree/plagiarism_checker.ipynb">Plagiarism checker </a>
 
 ## Glimpses
-<img src="https://drive.google.com/file/d/1TN8BSl8zGq577-NOAp6NQ7nkUTqlcGJo/view?usp=drive_link" />
-<img src="https://drive.google.com/file/d/18RjVimS9O2iM4YzspSYtM2_wuvYmuUq7/view?usp=drive_link" />
+![sentimental](https://github.com/vedant-11/edumate---Intel-One-API/assets/69393820/12335aea-ba28-4718-9960-d0576edf135f)
+
+![question](https://github.com/vedant-11/edumate---Intel-One-API/assets/69393820/14c044d6-7f4d-4410-9e72-a7077da4942b)
+
 ## Technology Stack 💻
 
 > App

@@ -57,6 +57,11 @@ Edumate is a trailblazing app transforms classrooms with its geofencing magic fo
 ![question](https://github.com/vedant-11/edumate---Intel-One-API/assets/69393820/14c044d6-7f4d-4410-9e72-a7077da4942b)![make test](https://github.com/vedant-11/edumate---Intel-One-API/assets/69393820/f6d30475-707a-4f22-bc41-69adc8d2c384)
 ![Forum](https://github.com/vedant-11/edumate---Intel-One-API/assets/69393820/3f56f731-8003-4093-a6ad-8ccfdfd1e830)
 
+# Video of Teacher App
+
+
+https://github.com/vedant-11/edumate---Intel-One-API/assets/69393820/b75de919-8253-401f-9974-b7ce92217e84
+
 
 ## Technology Stack 💻
 

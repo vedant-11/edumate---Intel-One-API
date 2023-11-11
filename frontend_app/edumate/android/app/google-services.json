@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "275997925238",
+    "firebase_url": "https://edumate-4a475-default-rtdb.firebaseio.com",
+    "project_id": "edumate-4a475",
+    "storage_bucket": "edumate-4a475.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275997925238:android:86128b4077bfc4ae8aa457",
+        "android_client_info": {
+          "package_name": "com.rubix.edumate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCePqcuNYer3bWoELrVgCm3stBJwptrIXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275997925238:android:7808bcc0752c1efe8aa457",
+        "android_client_info": {
+          "package_name": "com.rubixx.edumate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCePqcuNYer3bWoELrVgCm3stBJwptrIXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

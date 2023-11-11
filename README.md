@@ -72,9 +72,8 @@ Edumate is a trailblazing app transforms classrooms with its geofencing magic fo
 
 ## Collaborators 🤖
 
-Only developers.
-| Name | GitHub Profile |
-| :------------- | :----------: |
-| Vedant Singh | [GitHub](https://github.com/vedant-11) |
-| Chetas Shree M| [GitHub](https://github.com/mayankkrsohanda) |
-| Kartikey Mahawar | [GitHub](https://github.com/kartikey321) |
+| Name             |                GitHub Profile                |
+| :--------------- | :------------------------------------------: |
+| Vedant Singh     |    [GitHub](https://github.com/vedant-11)    |
+| Chetas Shree M   | [GitHub](https://github.com/mayankkrsohanda) |
+| Kartikey Mahawar |   [GitHub](https://github.com/kartikey321)   |

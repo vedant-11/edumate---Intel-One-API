@@ -35,6 +35,7 @@ Edumate is a trailblazing app transforms classrooms with its geofencing magic fo
 - Easy Administrative Tasks: Handling leaves and emergencies is simplified, making it less time-consuming for students and teachers to manage administrative matters.
 - Engaging Parents: The system keeps parents involved in their children's education, strengthening the link between home and school.
 - Plagiarism Checker: It helps teachers to find the plagiarized submissions with ease.
+- Sentiment Analysis: Student's text sentiment are checked before sending it to forum
 
 ## USPs 🚨
 
@@ -43,6 +44,7 @@ Edumate is a trailblazing app transforms classrooms with its geofencing magic fo
 - Seamless Knowledge Sharing Platform: EduMate distinguishes itself with its collaborative environment, encouraging students and teachers to share resources and notes seamlessly. This feature not only enriches the learning experience but also fosters a strong community of shared knowledge and support.
 - Comprehensive Student Performance Analytics: The platform offers in-depth analytics on student performance, providing educators with valuable insights. This feature enables targeted teaching strategies and support, making EduMate an invaluable tool for informed educational decision-making and enhanced student outcomes.
 - Encourages Mental Health: App will suggest various tips which will keep the students motivated and do not feel depressed.
+- Incentivising student: Teachers can reward student with tokens that they can use to redeem in canteen and send as gift to others for resources
 
 ## How we used Intel One API
 
@@ -56,16 +58,27 @@ Edumate is a trailblazing app transforms classrooms with its geofencing magic fo
 
 ## Glimpses
 ![sentimental](https://github.com/vedant-11/edumate---Intel-One-API/assets/69393820/12335aea-ba28-4718-9960-d0576edf135f)
-
-![question](https://github.com/vedant-11/edumate---Intel-One-API/assets/69393820/14c044d6-7f4d-4410-9e72-a7077da4942b)![make test](https://github.com/vedant-11/edumate---Intel-One-API/assets/69393820/f6d30475-707a-4f22-bc41-69adc8d2c384)
+![question](https://github.com/vedant-11/edumate---Intel-One-API/assets/69393820/14c044d6-7f4d-4410-9e72-a7077da4942b)!
+![landing](https://github.com/vedant-11/edumate---Intel-One-API/assets/69393820/d180938d-6b51-4529-904f-3b7f7c64b45c)
+[make test](https://github.com/vedant-11/edumate---Intel-One-API/assets/69393820/f6d30475-707a-4f22-bc41-69adc8d2c384)
 ![Forum](https://github.com/vedant-11/edumate---Intel-One-API/assets/69393820/3f56f731-8003-4093-a6ad-8ccfdfd1e830)
+![make test](https://github.com/vedant-11/edumate---Intel-One-API/assets/69393820/1a43541d-66fb-41eb-bf26-b50a5976497b)
+![test](https://github.com/vedant-11/edumate---Intel-One-API/assets/69393820/eb2202a4-1da7-4b59-b1e7-dbc43ad9ff10)
+
 
 # Video of Teacher App
 
 
 https://github.com/vedant-11/edumate---Intel-One-API/assets/69393820/b75de919-8253-401f-9974-b7ce92217e84
 
+# Video Of Attendance System
 
+
+https://github.com/vedant-11/edumate---Intel-One-API/assets/69393820/47f2d745-0388-483b-ac86-21d904b7fe43
+
+
+# Video Of Student App
+https://github.com/vedant-11/edumate---Intel-One-API/assets/69393820/875fb83d-17a1-4393-986f-954bb1715841
 ## Technology Stack 💻
 
 > App

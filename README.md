@@ -54,7 +54,9 @@ Edumate is a trailblazing app transforms classrooms with its geofencing magic fo
 ## Glimpses
 ![sentimental](https://github.com/vedant-11/edumate---Intel-One-API/assets/69393820/12335aea-ba28-4718-9960-d0576edf135f)
 
-![question](https://github.com/vedant-11/edumate---Intel-One-API/assets/69393820/14c044d6-7f4d-4410-9e72-a7077da4942b)
+![question](https://github.com/vedant-11/edumate---Intel-One-API/assets/69393820/14c044d6-7f4d-4410-9e72-a7077da4942b)![make test](https://github.com/vedant-11/edumate---Intel-One-API/assets/69393820/f6d30475-707a-4f22-bc41-69adc8d2c384)
+![Forum](https://github.com/vedant-11/edumate---Intel-One-API/assets/69393820/3f56f731-8003-4093-a6ad-8ccfdfd1e830)
+
 
 ## Technology Stack 💻
 
@@ -80,5 +82,5 @@ Edumate is a trailblazing app transforms classrooms with its geofencing magic fo
 | Name             |                GitHub Profile                |
 | :--------------- | :------------------------------------------: |
 | Vedant Singh     |    [GitHub](https://github.com/vedant-11)    |
-| Chetas Shree M   | [GitHub](https://github.com/mayankkrsohanda) |
+| Mayank Kumar Sohanda  | [GitHub](https://github.com/mayankkrsohanda) |
 | Kartikey Mahawar |   [GitHub](https://github.com/kartikey321)   |

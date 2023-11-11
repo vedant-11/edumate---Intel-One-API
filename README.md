@@ -1,1 +1,1 @@
-# edumate---Intel-One-API
+# Edumate---Intel-One-API
